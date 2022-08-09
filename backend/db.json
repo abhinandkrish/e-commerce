@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "hdmdu0t80yjkfqselfc",
+      "name": "shoes",
+      "stock": 10,
+      "price": 399.99,
+      "shortDesc": "Good running shoes",
+      "description": "White, trendy sports wear"
+    },
+    {
+      "id": "3dc7fiyzlfmkfqseqam",
+      "name": "bags",
+      "stock": 20,
+      "price": 299.99,
+      "shortDesc": "Comfortable ",
+      "description": "Leather, Plum Hand Bags"
+    },
+    {
+      "id": "aoe8wvdxvrkfqsew67",
+      "name": "shirts",
+      "stock": 15,
+      "price": 149.99,
+      "shortDesc": "Summer wear",
+      "description": "Cotton, check shirts, Light yellow"
+    },
+    {
+      "id": "bmfrurdkswtkfqsf15j",
+      "name": "shorts",
+      "stock": 4,
+      "price": 109.99,
+      "shortDesc": "Summer wear",
+      "description": "Cotton, dotted, brown"
+    }
+  ]
+}
